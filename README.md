@@ -1,6 +1,4 @@
 # Hi there, I'm [Egor](https://aspirin493.ml/) 
-![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+developer+from+Russia)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aspirin493&theme=dark)](https://git.io/streak-stats)
