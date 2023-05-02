@@ -1,4 +1,4 @@
-# Hi there, I'm [Egor](https://aspirin493.ml/) 
+# Hi there, I'm [Egor](https://aspirin493.ml/) ![](https://komarev.com/ghpvc/?username=Aspirin493)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+developer+from+Russia)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aspirin493&theme=dark)](https://git.io/streak-stats)
@@ -7,5 +7,3 @@
 
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aspirin493&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=Aspirin493)
