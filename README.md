@@ -3,7 +3,7 @@
 
 Skills: C++ / C# / HTML / CSS / PHP / JS / WPF
 
-- 🔭 I’m currently working on aniwish.ml 
+- 🔭 I’m currently working on aniwish.ru
 - 🌱 I’m currently learning C++ Object Oriented Programming 
 
 <!---Для компактной версии-->
