@@ -13,7 +13,7 @@
 
 ---
 
-## 🧐 Обо мне
+## 🧐 About me
 
 - 🔭 Currently working on **language education platform**
 - 🌱 Learning **C++ Object Oriented Programming**
