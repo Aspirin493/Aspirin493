@@ -1,9 +1,9 @@
-### Hi there 👋, my name is [Egor](https://aspirin493.ml/)         ![Profile views](https://gpvc.arturio.dev/Aspirin493)  
+### Hi there 👋, my name is [Egor](https://aspirin493.ru/) ![](https://komarev.com/ghpvc/?Aspirin493)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+developer+from+Russia)](https://git.io/typing-svg)
 
 Skills: C++ / C# / HTML / CSS / PHP / JS / WPF
 
-- 🔭 I’m currently working on aniwish.ru
+- 🔭 I’m currently working on self language education platfrom
 - 🌱 I’m currently learning C++ Object Oriented Programming 
 
 <!---Для компактной версии-->
